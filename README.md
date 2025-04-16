@@ -34,7 +34,8 @@ I’m passionate about bridging low-level hardware control with high-level AI an
 ---
 
 ## ✨ Highlights
-- **Core Team Lead** at GDSC: Organized workshops and hackathons, teaching microcontroller programming.  
+- **Core Team Lead** at GDSC: Organized workshops and hackathons, teaching microcontroller programming.
+-  
 - **Embedded Systems Instructor**: Led training sessions on real-time systems, IoT applications, and Raspberry Pi projects.  
 - **Open Source Contributor**: Contributed patches to improve driver stability in ROS2-based projects.  
 
