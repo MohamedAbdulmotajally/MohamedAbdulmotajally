@@ -18,17 +18,17 @@ I’m passionate about bridging low-level hardware control with high-level AI an
 ---
 
 ## 🚀 Technical Skills
-- **Languages**: C (strong), C++, Python  
+- **Languages**: C (strong), C++, Python, Qml  
 - **Microcontrollers**: ARM Cortex-M (STM32, Tiva C), AVR  
 - **OS & Tools**: FreeRTOS, Embedded Linux (Yocto, Ubuntu Core), U-Boot  
 - **DevOps**: CI/CD, Docker, basic Kubernetes  
-- **Networking**: TCP/IP, MQTT, CAN, UART, SPI, I2C  
+- **Networking**: TCP/IP, MQTT, CAN, UART, SPI, I2C, LIN, Ethernet  
 
 ---
 
 ## 🌱 What I’m Currently Learning
 - Advanced **ROS2** features for robotics  
-- Deeper **DevOps** techniques (cloud deployments for IoT)  
+- Qml & Qt for AGL
 - Optimizing **kernel modules** for real-time performance  
 
 ---
