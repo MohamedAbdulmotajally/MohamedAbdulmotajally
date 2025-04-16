@@ -52,9 +52,5 @@ When I'm not debugging firmware or tinkering with kernel configs, I enjoy explor
 
 ---
 
-<!-- Optional: GitHub Stats (replace <username> with your GitHub handle) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbdulmotajally&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdulmotajally&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
-</p>
+
 
