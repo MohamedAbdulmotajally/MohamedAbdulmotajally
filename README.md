@@ -7,14 +7,7 @@
 
 ---
 
-<div align="center">
 
-# 🤖 Mohamed Elsayed Abdel-Motagally  
-**AI Engineer • Embedded Systems  • Robotics Developer • Agentic AI Specialist**
-
-### I build end-to-end intelligent systems merging AI, Multi-Agent Intelligence, Robotics & Embedded Hardware
-
-</div>
 
 <br />
 
