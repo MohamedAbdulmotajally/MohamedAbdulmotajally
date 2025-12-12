@@ -1,56 +1,90 @@
-<!-- Typing SVG (optional) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Hello%2C+I'm+Mohamed+Abdel-Motagally;Embedded+Software+Engineer;Robotics+%7C+DevOps+%7C+RTOS+%7C+Linux)](https://git.io/typing-svg)
-
-# 👋 Hi there, I'm Mohamed Elsayed Abdel-Motagally!
-
-I’m an **Embedded Software Engineer** from **Egypt** with a strong focus on:
-- **Real-time operating systems (RTOS)**
-- **Linux/Ubuntu Core**
-- **Robotics (ROS2)**
-- **DevOps pipelines for embedded projects**
-
-I’m passionate about bridging low-level hardware control with high-level AI and automation to create efficient, scalable solutions. My experience includes:
-- Developing **ADAS pipelines** with **ROS2** and custom kernel tweaks
-- Packaging applications as **Snaps** for Ubuntu Core
-- Integrating **ARM-based microcontrollers** with sensors and peripherals
-- Teaching and mentoring students in **embedded systems** fundamentals
+<!-- Dynamic Typing Header -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&width=650&center=true&vCenter=true&lines=Hello%2C+I'm+Mohamed+Abdel-Motagally!;AI+Engineer+%7C+Embedded+Systems+Architect;RAG+%7C+Agentic+AI+%7C+Robotics" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-## 🚀 Technical Skills
-- **Languages**: C (strong), C++, Python, Qml  
-- **Microcontrollers**: ARM Cortex-M (STM32, Tiva C), AVR  
-- **OS & Tools**: FreeRTOS, Embedded Linux (Yocto, Ubuntu Core), U-Boot  
-- **DevOps**: CI/CD, Docker, basic Kubernetes  
-- **Networking**: TCP/IP, MQTT, CAN, UART, SPI, I2C, LIN, Ethernet  
+<div align="center">
+
+# 🤖 Mohamed Elsayed Abdel-Motagally  
+**AI Engineer • Embedded Systems  • Robotics Developer • Agentic AI Specialist**
+
+### I build end-to-end intelligent systems merging AI, Multi-Agent Intelligence, Robotics & Embedded Hardware
+
+</div>
+
+<br />
+
+<div align="center">
+
+![Location: Egypt](https://img.shields.io/badge/📍-Egypt-orange?style=flat-square)
+![Open to Opportunities](https://img.shields.io/badge/💼-Open%20to%20Opportunities-green?style=flat-square)
+![Robotics](https://img.shields.io/badge/🤖-ROS2-blue?style=flat-square)
+![AI Systems](https://img.shields.io/badge/🧠-LLMs%20%26%20RAG-purple?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/⚡-Agentic%20AI-red?style=flat-square)
+
+</div>
 
 ---
 
-## 🌱 What I’m Currently Learning
-- Advanced **ROS2** features for robotics  
-- Qml & Qt for AGL
-- Optimizing **kernel modules** for real-time performance  
+## 🔥 Core Expertise
+
+### 🧠 **AI & LLM Engineering**
+<div>
+  <img src="https://img.shields.io/badge/LLMs-Qwen%20%7C%20Llama%20%7C%20Mistral-FF6B6B?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Hybrid%20%7C%20Semantic%20%7C%20Graph-4ECDC4?style=flat&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-FAISS%20%7C%20Qdrant-95E1D3?style=flat&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fine_tuning-LoRA%20%7C%20QLoRA-C7CEEA?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-LangChain%20%7C%20FastAPI%20%7C%20PyTorch-FFD93D?style=flat&logo=fastapi&logoColor=black" />
+</div>
+
+### ⚡ **Backend & Cloud Engineering**
+<div>
+  <img src="https://img.shields.io/badge/API-FastAPI%20%7C%20gRPC-2F96EF?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Containers-Docker%20%7C%20Compose-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20Redis-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DBs-Qdrant%20%7C%20FAISS-FF6B6B?style=flat&logo=googlecloud&logoColor=white" />
+</div>
+
+### 🛠️ **Embedded & Robotics**
+<div>
+  <img src="https://img.shields.io/badge/MCU-STM32%20%7C%20ARM%20Cortex--M-00A4EF?style=flat&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTOS-FreeRTOS%20%7C%20Embedded%20Linux-FF6347?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-ROS2%20Nav2%20%7C%20DDS-22314E?style=flat&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Buses-CAN%20%7C%20UART%20%7C%20SPI%20%7C%20I²C-8B4513?style=flat" />
+</div>
+
+### 🤖 **Agentic & Autonomous Systems**
+<div>
+  <img src="https://img.shields.io/badge/Multi-Agent-Autonomous%20LLMs-FF6B6B?style=flat&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoGen-RAG%20%7C%20Hybrid%20AI-4ECDC4?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Planning-Task%20Orchestration-95E1D3?style=flat&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Decision_Making-Reactive%20%7C%20Proactive-C7CEEA?style=flat&logo=pytorch&logoColor=white" />
+</div>
 
 ---
 
-## ✨ Highlights
-- **Core Team Lead** at GDSC: Organized workshops and hackathons, teaching microcontroller programming.
--  
-- **Embedded Systems Instructor**: Led training sessions on real-time systems, IoT applications, and Raspberry Pi projects.  
-- **Open Source Contributor**: Contributed patches to improve driver stability in ROS2-based projects.  
+## 🏆 Featured Projects & Impact
+
+|   |   |
+|---|---|
+| 🧠 | **Production Arabic/English Hybrid RAG System**<br><sub>Smart ingestion → chunking → hybrid retrieval → reranking → evaluation (Qwen-14B, Llama-3, fully on-prem)</sub> |
+| 🤖 | **Autonomous Multi-Agent RAG & Robotics**<br><sub>Hybrid AI agents coordinating tasks, dynamic reasoning, and real-time robotic decision-making.</sub> |
+| 🛠️ | **Embedded → AI Integration**<br><sub>Real-time sensor fusion + on-device model inference & ARM optimization.</sub> |
+| 🎓 | **Technical Instructor & Mentor**<br><sub>Trained 1000+ students in embedded systems, RTOS, robotics & AI engineering.</sub> |
 
 ---
 
-## 📫 How to Reach Me
-- **LinkedIn**: [linkedin.com/in/mohamed-elsayed-abdel-motagally](https://www.linkedin.com/in/mohamed-elsayed-abdel-motagally-b676aa201/)
-- **Email**: [mohamed.abedlmotajally@gmail.com](mailto:mohamed.abedlmotajally@gmail.com)
+## 🌱 Research & Development Focus
 
----
-
-## ⚡ Fun Fact
-When I'm not debugging firmware or tinkering with kernel configs, I enjoy exploring new DevOps tools, playing with robotics kits, and helping others learn about embedded systems!
-
----
-
-
-
+```python
+current_focus = {
+    "agentic_ai": "Autonomous multi-agent reasoning & task orchestration",
+    "multimodal_rag": "Vision + Audio + Text retrieval",
+    "graph_rag": "Knowledge Graph + Vector hybrid systems",
+    "robotic_ai": "Real-time LLM reasoning for robotics",
+    "edge_optimization": "Efficient AI on embedded hardware"
+}
